@@ -21,7 +21,7 @@ int gcd(const int a, const int b)
 // PRE: n is a positive int greater than 0
 // POST: n is not changed
 // RETURN: the nth positive integer in the Fibonacci sequence.
-long long fibonacci(const int n)
+long long fibonacci(const int n) 
 {
 	/*int rep, prv, tmp, sum;
 	for (rep = sum = 1, prv = 0;
